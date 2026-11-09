@@ -1,4 +1,4 @@
-# 🎬 KMIT Theatre Booking System
+# 🎬 Theatre Ticket Booking System
 
 A console-based theatre ticket booking system developed using **C programming**.
 
